@@ -1,0 +1,1 @@
+int Task2_SimpleDjb2Hash(FILE * fFileDescriptor, int* piHash);
