@@ -1,0 +1,1 @@
+[Normal Debug] File: src/flightList.c:195  Message: All flights deleted successfully.
