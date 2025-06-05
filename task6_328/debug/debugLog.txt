@@ -1,0 +1,2 @@
+[Warn Debug] File: src/httpClient.c:80  Message: Resource temporarily unavailable
+[Warn Debug] File: src/httpClient.c:76  Message: connection closed by server

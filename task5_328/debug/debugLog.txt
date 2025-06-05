@@ -1,0 +1,56 @@
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:198  Message: Handle ServerAccept
+[Normal Debug] File: src/requestHandler.c:65  Message: Preparing server receive data
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:111  Message: Try to find  command
+[Normal Debug] File: src/requestHandler.c:116  Message: Command Found: HELO
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:225  Message: Handhandle Client Helo
+[Normal Debug] File: src/requestHandler.c:65  Message: Preparing server receive data
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:111  Message: Try to find  command
+[Normal Debug] File: src/requestHandler.c:116  Message: Command Found: MAIL FROM:
+[Normal Debug] File: src/requestHandler.c:256  Message: Handhandle Mail From
+[Normal Debug] File: src/validator.c:159  Message: Validating Mail
+[Normal Debug] File: src/validator.c:185  Message: Done Validating Mail
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:160  Message: Preparing server reply: statusCode=250, message=Sender address ok
+[Normal Debug] File: src/requestHandler.c:180  Message: send server reply: statusCode=250, message=Sender address ok
+[Normal Debug] File: src/requestHandler.c:65  Message: Preparing server receive data
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:111  Message: Try to find  command
+[Normal Debug] File: src/requestHandler.c:116  Message: Command Found: RCPT TO:
+[Normal Debug] File: src/requestHandler.c:279  Message: Handhandle Recpt TO
+[Normal Debug] File: src/validator.c:159  Message: Validating Mail
+[Normal Debug] File: src/validator.c:185  Message: Done Validating Mail
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:160  Message: Preparing server reply: statusCode=250, message=Received address ok
+[Normal Debug] File: src/requestHandler.c:180  Message: send server reply: statusCode=250, message=Received address ok
+[Normal Debug] File: src/requestHandler.c:65  Message: Preparing server receive data
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:111  Message: Try to find  command
+[Normal Debug] File: src/requestHandler.c:116  Message: Command Found: DATA
+[Normal Debug] File: src/requestHandler.c:357  Message: Handhandle DATA
+[Normal Debug] File: src/validator.c:128  Message: Validating filename
+[Normal Debug] File: src/validator.c:150  Message: Done Validating Filename
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:160  Message: Preparing server reply: statusCode=354, message=File Name OK
+[Normal Debug] File: src/requestHandler.c:180  Message: send server reply: statusCode=354, message=File Name OK
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:160  Message: Preparing server reply: statusCode=250, message=ALL data received
+[Normal Debug] File: src/requestHandler.c:180  Message: send server reply: statusCode=250, message=ALL data received
+[Normal Debug] File: src/requestHandler.c:65  Message: Preparing server receive data
+[Warn Debug] File: src/requestHandler.c:43  Message: Resource temporarily unavailable Try: 1
+[Normal Debug] File: src/validator.c:36  Message: valid header Info
+[Normal Debug] File: src/requestHandler.c:111  Message: Try to find  command
+[Normal Debug] File: src/requestHandler.c:116  Message: Command Found: QUIT
+[Normal Debug] File: src/requestHandler.c:378  Message: Handhandle QUIT
+[Normal Debug] File: src/requestHandler.c:132  Message: Building header for data size: 64
+[Normal Debug] File: src/requestHandler.c:160  Message: Preparing server reply: statusCode=221, message=Bye
+[Normal Debug] File: src/requestHandler.c:180  Message: send server reply: statusCode=221, message=Bye

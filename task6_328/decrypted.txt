@@ -1,0 +1,4 @@
+I created this file specially for you candidate number 328, congratulation on successfully cracking the encryption key on this file. I hope the quality of your source code is as good as your problem solving skills, and that you have put as much time into all the tasks - then hopefully Bengt will give you a good grade, which in my eyes you deserve. It has been great serving you during this exam, and I hope to see you again. It doesnt have to be good bye just yet though, you can run me as many times as you want to test and improve your code further.
+
+Best regards - EWA.
+Current session ID is 33-75641163, encryption key used is 38...38.
