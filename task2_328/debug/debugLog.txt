@@ -1,0 +1,5 @@
+[Normal Debug] File: src/main.c:23  Message: Allocate memory for FILE_METADATA successfully
+[Normal Debug] File: src/main.c:34  Message: File pointer created FileName: pgexam25_test.txt Mode: r successfully
+[Normal Debug] File: src/main.c:34  Message: File pointer created FileName: pgexam25_output.bin Mode: wb successfully
+[Normal Debug] File: src/main.c:43  Message: Written to binary file successfully.
+[Normal Debug] File: src/main.c:57  Message: Everything was freed successfully.

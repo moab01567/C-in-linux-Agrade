@@ -1,0 +1,1 @@
+int Task2_CountEachCharacter(FILE * fFileDescriptor, char aCountArray[26]);

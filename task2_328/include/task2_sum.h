@@ -1,0 +1,1 @@
+int Task2_SizeAndSumOfCharacters(FILE* fFileDescriptor, int* piSizeOfFile, int* piSumOfChars);
